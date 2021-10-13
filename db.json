@@ -1,0 +1,70 @@
+{
+  "tasks": [
+    {
+      "text": "go to grandma",
+      "category": "SideProjects",
+      "isFocused": false,
+      "isImportant": false,
+      "id": 5
+    },
+    {
+      "text": "gejcina",
+      "category": "Bruno gay",
+      "isFocused": false,
+      "isImportant": false,
+      "id": 6
+    },
+    {
+      "text": "aaa",
+      "category": "School",
+      "isFocused": false,
+      "isImportant": false,
+      "id": 9
+    },
+    {
+      "text": "ddd",
+      "category": "Work",
+      "isFocused": false,
+      "isImportant": false,
+      "id": 11
+    },
+    {
+      "text": "bruno",
+      "category": "bruno",
+      "isFocused": false,
+      "isImportant": false,
+      "id": 12
+    },
+    {
+      "text": "awd",
+      "category": "School",
+      "isFocused": false,
+      "isImportant": false,
+      "id": 13
+    },
+    {
+      "text": "awd",
+      "category": "awd",
+      "isFocused": false,
+      "isImportant": false,
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "category": "School"
+    },
+    {
+      "category": "Work"
+    },
+    {
+      "category": "SideProjects"
+    },
+    {
+      "category": "Bruno gay"
+    },
+    {
+      "category": "bruno"
+    }
+  ]
+}
